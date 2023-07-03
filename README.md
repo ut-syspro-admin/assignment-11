@@ -12,7 +12,7 @@ Device driver.
 ## Assignment
 
 - Slide: [here](https://docs.google.com/presentation/d/1pCFJyH9nI0FssCmNs1soQV4L57Zg52ICvgfUVlD4MYw/edit?usp=sharing) (ECCS email required) 
-- Date assigned: ***2023/07/10***
+- Date assigned: ***2023/07/03***
 - Date due: ***2023/07/24 23:59*** (tentative)
 
 ## Notes
